@@ -20,7 +20,7 @@ Projeto criado como atividade prática durante o curso técnico em Desenvolvimen
 ---------------
 # 🛠️ Como rodar seu código
 - Passo 1:  Clone o repositório
-git clone "link do seu repositório"
+git clone "https://github.com/MIRELLA-02/FlutterFuncionarios.git"
 
 - Passo 2: Acesse a pasta
   cd seu-repositorio
