@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "nome": "João Vitor Souza",
+    "cargo": "Supervisor",
+    "salario": 3200.00,
+    "dataContatacao": "2021-05-10",
+    "avatar": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png"
+  },
+  {
+    "id": 2,
+    "nome": "Camila Duarte",
+    "cargo": "Recepcionista",
+    "salario": 1800.00,
+    "dataContatacao": "2023-02-18",
+    "avatar": "https://cdn-icons-png.flaticon.com/512/3135/3135789.png"
+  },
+  {
+    "id": 3,
+    "nome": "Rafael Teixeira",
+    "cargo": "Operador de Máquinas",
+    "salario": 2500.505,
+    "dataContatacao": "2020-11-03",
+    "avatar": "https://cdn-icons-png.flaticon.com/512/4140/4140048.png"
+  },
+  {
+    "id": 4,
+    "nome": "Beatriz Nogueira",
+    "cargo": "Gerente",
+    "salario": 4200.00,
+    "dataContatacao": "2019-07-25",
+    "avatar": "https://cdn-icons-png.flaticon.com/512/2922/2922561.png"
+  },
+  {
+    "id": 5,
+    "nome": "Diego Fernandes",
+    "cargo": "Estoquista",
+    "salario": 1800.00,
+    "dataContatacao": "2022-08-14",
+    "avatar": "https://br.freepik.com/fotos/estoquista"
+  },
+  {
+    "id": 6,
+    "nome": "Renata Souza",
+    "cargo": "Analista Financeiro",
+    "salario": 3600.90,
+    "dataContatacao": "2021-11-30",
+    "avatar": "https://www1.folha.uol.com.br/opiniao/2023/07/uma-nova-lei-pela-igualdade-salarial-entre-homens-e-mulheres.shtml"
+  },
+  {
+    "id": 7,
+    "nome": "Felipe Rocha",
+    "cargo": "Operador de Máquinas",
+    "salario":2300.40,
+    "dataContatacao": "2022-08-19",
+    "avatar": "https://stories.gupy.io/operador-de-producao-motor-da-industria/"
+  },
+  {
+    "id": 8,
+    "nome": "Juliane Castro",
+    "cargo": "Assistente Comercial",
+    "salario": 2100.00,
+    "dataContatacao": "2023-03-27",
+    "avatar": "https://diariodocomercio.com.br/gestao/aumenta-participacao-de-mulheres-alta-lideranca-minas-gerais/"
+  },
+  {
+    "id": 9,
+    "nome": "Rafael Teixeira",
+    "cargo": "Motorista",
+    "salario": 2500.00,
+    "dataContatacao": "2020-12-05",
+    "avatar": "https://pt.vecteezy.com/foto/7074325-o-homem-motorista-de-caminhao-asiatico-sorrindo-feliz-dentro-da-frente-do-caminhao-ele-e-o-proprietario-de-um-negocio-de-transporte-que-comeca-um-novo-negocio-e-esta-crescendo"
+  },
+  {
+    "id": 10,
+    "nome": "Beatriz Nunes",
+    "cargo": "Auxiliar de Limpeza",
+    "salario": 1550.30,
+    "dataContatacao": "2024-06-18",
+    "avatar": "https://economia.uol.com.br/noticias/redacao/2025/03/06/mensagem-do-dia-da-mulher-para-funcionarias-veja-55-frases-inspiradoras.htm"
+  }
+]
